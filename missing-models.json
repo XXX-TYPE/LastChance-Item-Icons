@@ -1,0 +1,218 @@
+[
+  {
+    "id": 12098,
+    "name": "Куб открытый [Last Chance]",
+    "type": "Storage",
+    "path": "icons/12098.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/12098.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 12099,
+    "name": "Куб закрытый [Last Chance]",
+    "type": "Storage",
+    "path": "icons/12099.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/12099.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 12150,
+    "name": "Him",
+    "type": "Trap",
+    "path": "icons/12150.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/12150.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 12186,
+    "name": "Electro",
+    "type": "Trap",
+    "path": "icons/12186.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/12186.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 12217,
+    "name": "Табы для гитары [Last Chance]",
+    "type": "Magazine",
+    "path": "icons/12217.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/12217.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 12284,
+    "name": "Линза для камеры [Last Chance]",
+    "type": "Sight",
+    "path": "icons/12284.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/12284.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 12332,
+    "name": "Вихрь [Last Chance]",
+    "type": "Medical",
+    "path": "icons/12332.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/12332.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 13104,
+    "name": "Пулемет БТР-80 [Last Chance]",
+    "type": "Gun",
+    "path": "icons/13104.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/13104.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 13110,
+    "name": "Пулемет от Тигра [Last Chance]",
+    "type": "Gun",
+    "path": "icons/13110.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/13110.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 13116,
+    "name": "Миниган от Black Hawk UH-60 [Last Chance]",
+    "type": "Gun",
+    "path": "icons/13116.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/13116.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 13121,
+    "name": "ПКМ от MI-17 [Last Chance]",
+    "type": "Gun",
+    "path": "icons/13121.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/13121.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 13140,
+    "name": "Пулемет Hummer [Last Chance]",
+    "type": "Gun",
+    "path": "icons/13140.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/13140.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 15152,
+    "name": "Прицел от Энергетической пушки [Last Chance]",
+    "type": "Sight",
+    "path": "icons/15152.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/15152.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 15236,
+    "name": "Прицел от G36 [Last Chance]",
+    "type": "Sight",
+    "path": "icons/15236.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/15236.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 25136,
+    "name": "Противогаз БН13 [Last Chance]",
+    "type": "Mask",
+    "path": "icons/25136.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/25136.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 25213,
+    "name": "Противогаз ГП-7 [Last Chance]",
+    "type": "Mask",
+    "path": "icons/25213.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/25213.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 25270,
+    "name": "Штаны зомби [Last Chance]",
+    "type": "Pants",
+    "path": "icons/25270.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/25270.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 25271,
+    "name": "Куртка зомби [Last Chance]",
+    "type": "Shirt",
+    "path": "icons/25271.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/25271.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 25303,
+    "name": "Штаны [Last Chance]",
+    "type": "Pants",
+    "path": "icons/25303.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/25303.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 25364,
+    "name": "Маска [Last Chance]",
+    "type": "Mask",
+    "path": "icons/25364.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/25364.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 25404,
+    "name": "Шамана [Last Chance]",
+    "type": "Food",
+    "path": "icons/25404.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/25404.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 26000,
+    "name": "Invise_Shirt [Last Chance]",
+    "type": "Shirt",
+    "path": "icons/26000.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/26000.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 28091,
+    "name": "Миниган [Last Chance]",
+    "type": "Gun",
+    "path": "icons/28091.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/28091.png",
+    "placeholder": true,
+    "bytes": 70
+  },
+  {
+    "id": 28881,
+    "name": "Vehicle_Sight [Last Chance]",
+    "type": "Sight",
+    "path": "icons/28881.png",
+    "url": "https://raw.githubusercontent.com/XXX-TYPE/LastChance-Item-Icons/main/icons/28881.png",
+    "placeholder": true,
+    "bytes": 70
+  }
+]
